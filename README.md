@@ -1,2 +1,2 @@
 # TensorFlowTest
-Machine Learning
+Machine Learning programming samples
